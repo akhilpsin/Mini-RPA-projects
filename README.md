@@ -6,13 +6,16 @@ This repository contains multiple small applications built using XAML. Each appl
 ## Contents
 
 ### 1. Guessing Game (`gussing game.xaml`)
-A simple number guessing game where the user tries to guess the correct number to win.
+A simple number-guessing game where the user tries to guess the correct number to win.
 
 ### 2. Small Quiz (`smallQuiz.xaml`)
 A basic quiz game with a set of questions and answers.
 
-### 3. Source to Destination
-(Provide a brief description of this feature.)
+### 3. Source to Destination (`SrcToDest.xaml`)
+This specific workflow consists of two main functionalities:  
+   i) File Transfer (Source to Destination)  
+   ii) Web Automation (Data Scraping from Flipkart)  
+
 
 ## Requirements
 - XAML-compatible environment
